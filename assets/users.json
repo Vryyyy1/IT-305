@@ -1,0 +1,42 @@
+[
+  {
+    "set": "A1",
+    "number": 1,
+    "rarity": "C",
+    "name": "Bulbasaur",
+    "image": "assets/bulbasaur.webp",
+    "packs": ["Mewtwo"]
+  },
+  {
+    "set": "A1",
+    "number": 2,
+    "rarity": "U",
+    "name": "Ivysaur",
+    "image": "assets/ivysaur.webp",
+    "packs": ["Mewtwo"]
+  },
+  {
+    "set": "A1",
+    "number": 3,
+    "rarity": "R",
+    "name": "Venusaur",
+    "image": "assets/venusaur.webp",
+    "packs": ["Mewtwo"]
+  },
+  {
+    "set": "A1",
+    "number": 4,
+    "rarity": "RR",
+    "name": "Venusaur ex",
+    "image": "assets/venusaurex.webp",
+    "packs": ["Mewtwo"]
+  },
+  {
+    "set": "A1",
+    "number": 5,
+    "rarity": "C",
+    "name": "Caterpie",
+    "image": "assets/caterpie.webp",
+    "packs": ["Pikachu"]
+  }
+]
